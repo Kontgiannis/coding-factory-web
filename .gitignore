@@ -1,0 +1,16 @@
+# VS Code
+.vscode/
+
+# Node.js (if you ever use it)
+node_modules/
+
+# Build output
+dist/
+out/
+
+# Environment files
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
